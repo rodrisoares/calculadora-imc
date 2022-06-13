@@ -8,6 +8,8 @@ O  cálculo do IMC é feito com base no peso e altura de uma pessoa, na tela de 
 <img src="https://github.com/rodrisoares/calculadora-imc/blob/main/img/telas.gif" />
 
 
-# 🛠 Tecnologia:
+# 🛠 Tecnologias:
 * Java
+* Android Studio
+
 
