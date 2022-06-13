@@ -13,3 +13,5 @@ O  cálculo do IMC é feito com base no peso e altura de uma pessoa, na tela de 
 * Android Studio
 
 
+## :rocket: Executando o projeto:
+Basta fazer o download do aplicativo apk que está na pasta "apk" na raiz do projeto e instalar em seu dispositivo android.
